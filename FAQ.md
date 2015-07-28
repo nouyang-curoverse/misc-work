@@ -1,3 +1,7 @@
+```markdown
+   // <span style="color: green"> Some green text </span>
+   Test
+```
 # RT Support FAQ Test
 
 ## Category
